@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Work In Progress Expense Tracker Application PWA(Progressive Web Application)</h1>
+        <h1>Expense Tracker Application Work In Progress PWA(Progressive Web Application)</h1>
       </header>
     </div>
   );
